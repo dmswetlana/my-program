@@ -1,4 +1,5 @@
 // демонстрация возврата функциями значений
+// perviy comment dlya git
 #include<iostream>
 #include<clocale>
 
